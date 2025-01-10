@@ -23,22 +23,7 @@ I'm a passionate developer with a love for learning new technologies and solving
 
 ## 📫 How to Reach Me
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-
-## 🌟 Projects
-
-Here are a few projects I've worked on:
-
-- [Project 1](https://github.com/LoveAnneLiser/project1): Brief description of the project.
-- [Project 2](https://github.com/LoveAnneLiser/project2): Brief description of the project.
-- [Project 3](https://github.com/LoveAnneLiser/project3): Brief description of the project.
-
-## 📚 Blog Posts
-
-- [Post 1](https://your-blog.com/post1): Brief description of the blog post.
-- [Post 2](https://your-blog.com/post2): Brief description of the blog post.
+- **Email:** [wongannelister@gmail.com](mailto:wongannelister@gmail.com)
 
 ## 💬 Let's Connect!
 
